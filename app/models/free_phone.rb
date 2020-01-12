@@ -1,0 +1,2 @@
+class FreePhone < ApplicationRecord
+end
