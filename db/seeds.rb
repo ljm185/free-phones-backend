@@ -5,5 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-free_phone1 = FreePhone.create(description: "OMG NOW'S YOUR BIGGEST CHANCE TO WIN A FREE IPHONE TOTES LEGIT!!!!!!111!!1!!!1!!!!11", url: "https://www.youtube.com/watch?v=9Jz1TjCphXE")
-free_phone2 = FreePhone.create(description: "How about this one?", url: "https://www.youtube.com/watch?v=HoBa2SyvtpE")
+# free_phone1 = FreePhone.create(description: "OMG NOW'S YOUR BIGGEST CHANCE TO WIN A FREE IPHONE TOTES LEGIT!!!!!!111!!1!!!1!!!!11", url: "https://www.youtube.com/watch?v=9Jz1TjCphXE")
+# free_phone2 = FreePhone.create(description: "How about this one?", url: "https://www.youtube.com/watch?v=HoBa2SyvtpE")
+free_phone3 = FreePhone.create(description: "The best video ever created", url: "https://www.youtube.com/watch?v=HP8sofAN4xc")
